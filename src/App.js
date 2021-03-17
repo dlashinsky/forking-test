@@ -3,7 +3,7 @@ import './App.css';
 import Sarah from './components/sarahComponent'
 import Dave from './components/daveComponent'
 import Justin from './components/justinComponent'
-import Chris from './components/chrisComponent'
+import Louisa from './components/louisaComponent'
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
       <Sarah />
       <Dave />
       <Justin />
-      <Chris />
+      <Louisa />
 
     </div>
   );
